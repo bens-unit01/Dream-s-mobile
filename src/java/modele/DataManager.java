@@ -27,8 +27,8 @@ public class DataManager {
     
     public static Connection getConnection(){
         String url="jdbc:oracle:thin:@oracleadudb1.bdeb.qc.ca:1521:gdna10";
-        String user="ug283f03";
-        String pwd="bbking456";
+        String user="username";
+        String pwd="pwd";
         
         
 
